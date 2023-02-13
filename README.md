@@ -1,2 +1,2 @@
-# Projetinho-HTML
+# Projetinhos - HTML
 Project number 01
